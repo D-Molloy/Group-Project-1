@@ -3,6 +3,7 @@
 Group Project #1 (Original Orginization Repo: https://github.com/ZDBootcampWork/Fandemonium)
 
 **Overview**
+
 As a part of a 3-person team, we came up with Fandemonium; a site for music fans that provides one-stop
 shop for all pertinent information regarding your favorite artists. You can search for your favorite artists and
 find links to their Wikipedia page and social media, along with (if available) an interactive map to all of their
@@ -12,9 +13,11 @@ calls to the MusicGraph API to get artist links and use that information to popu
 queries to ensure the page looks/functions well on mobile devices.
 
 **Technologies**
+
 HTML/CSS/JS/JQuery/Bootstrap/Bootbox js/Moment js/bootstrap-datepicker/Bandintown API/MusicGraph API/ Mapbox GL JS API 
 
 **Requirements**
+
 Create an application that meets the following requirements:
 - Must use at least two APIs 
 - Must use AJAX to pull data
@@ -28,7 +31,6 @@ Create an application that meets the following requirements:
 - Utilize Firebase for persistent data storage 
 
 **My Contributions**
-As a part of a three-member team, I contributed the following:
 - Final UI design and layout
 - implementation of the datepicker and validation of dates
 - introduction of bootbox modals
